@@ -1,0 +1,27 @@
+/venv
+/.venv
+/.vscode
+/.claude
+/results
+/data
+/__pycache__
+/jsForQualtrics
+.env
+wave1buckets.pdf
+validation_v2_helpers.py
+Survey1_V1_SimProjects (8).qsf
+Survey1_V1 (20).qsf
+plot_utility_plateau_contents.py
+plot_utility_functions.py
+generate_bundles2.py
+generate_bundles.py
+dump_utility_functions_for_review.py
+bucket_priorities_by_utility.py
+annotate_utility_levels.py
+analyze_utility_levels.py
+analyze_priority_types_by_question.py
+analyze_priority_separability.py
+analyze_cited_zero_activation.py
+.DS_Store
+__pycache__/
+*.pyc
